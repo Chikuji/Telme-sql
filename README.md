@@ -14,5 +14,13 @@
   - SELECT
   - FROM
   - SELECT
+  
+## Dia 2
+
+  - CASE
+  - Exercicios
+  - Count
+  - Min, Max
+  - Group By
 
 Autor: Felipe Chikuji
